@@ -1,0 +1,15 @@
+<!DOCTYPE html><!--discirbing which language we are using-->
+<html>
+    <head>
+
+        <title>html structure</title>
+    </head>
+
+
+
+    <body>
+        Welcome to codingal...<br><!--line break-->
+        our motive is to make all the children fall in love for coding ...
+    </body>
+
+</html>
